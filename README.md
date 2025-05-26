@@ -93,8 +93,8 @@ Identifies peak and low-performing days.
 
 If you have any questions or feedback, feel free to reach out:
 
-- 📧 [YourEmail@example.com]
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+- 📧 thirumalanaidu.ds2026@gmail.com
+- 8074244660
 
 ---
 
